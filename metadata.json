@@ -1,0 +1,6 @@
+{
+  "name": "OP: LIVIK - Tactical Battle Royale System & GDD Architecture",
+  "description": "AAA tactical battle royale shooter simulation and technical architecture specification featuring realistic ballistics, recoil kinematics, dynamic zones, and competitive netcode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
